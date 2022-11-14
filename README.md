@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Kelian, a C# and Xamarin Forms developer 👨‍💻 currently diving deeper into that🚀</div>  
+### <div align="center">I'm Kelian, a C# and ML.NET developer 👨‍💻 currently diving deeper into that🚀</div>  
   
 
-- 🔭 I’m currently working on an Xamarin Forms App  
+- 🔭 I’m currently working on a Spam Detector
   
 
 - 🤯 I’m currently learning the basics of Machine Learning  
